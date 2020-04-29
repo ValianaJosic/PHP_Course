@@ -11,6 +11,11 @@
     echo "My name is {$name}";
     print "Hello" . "World";
 
+    $age = 24;
+
+    echo "My name is Valiana";
+    //echo "I am From Croatia";
+
 ?>
 </body>
 </html>
