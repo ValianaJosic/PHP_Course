@@ -6,12 +6,14 @@
 </head>
 <body>
     <?php 
+    
     $name = "Vali";
     
     echo "My name is {$name}";
     print "Hello" . "World";
 
-    $age = 24;
+  //Creating variable of my age      
+    $age = 29;
 
     echo "My name is Valiana";
     //echo "I am From Croatia";
