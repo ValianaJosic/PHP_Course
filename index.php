@@ -9,6 +9,7 @@
     $name = "Vali";
     
     echo "My name is {$name}";
+    print "Hello" . "World";
 
 ?>
 </body>
